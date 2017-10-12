@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/relaybroker.iml" filepath="$PROJECT_DIR$/.idea/modules/relaybroker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/relaybroker_main.iml" filepath="$PROJECT_DIR$/.idea/modules/relaybroker_main.iml" group="relaybroker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/relaybroker_test.iml" filepath="$PROJECT_DIR$/.idea/modules/relaybroker_test.iml" group="relaybroker" />
+    </modules>
+  </component>
+</project>
